@@ -1,0 +1,2 @@
+# farid-wafi
+pengenalan git
